@@ -1,3 +1,5 @@
+package edu.uwec.cribbageassistant.view;
+import edu.uwec.cribbageassistant.controller.ModeSelecter;
 
 /**
  * The main method of the Cribbage Assistant project

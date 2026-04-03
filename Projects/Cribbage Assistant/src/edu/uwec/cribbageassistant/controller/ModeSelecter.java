@@ -1,5 +1,10 @@
+package edu.uwec.cribbageassistant.controller;
 
 import javax.swing.*;
+
+import edu.uwec.cribbageassistant.view.CalculationFrame;
+import edu.uwec.cribbageassistant.view.InProgress;
+
 import java.awt.*;
 
 /**

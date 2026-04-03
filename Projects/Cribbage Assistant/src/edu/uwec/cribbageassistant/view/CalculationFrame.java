@@ -1,4 +1,10 @@
+package edu.uwec.cribbageassistant.view;
 import javax.swing.*;
+
+import edu.uwec.cribbageassistant.controller.ScoreFrame;
+import edu.uwec.cribbageassistant.model.Card;
+import edu.uwec.cribbageassistant.model.Hand;
+
 import java.awt.*;
 
 

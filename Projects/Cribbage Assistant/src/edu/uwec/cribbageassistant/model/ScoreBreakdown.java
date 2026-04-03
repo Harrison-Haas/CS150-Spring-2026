@@ -1,5 +1,7 @@
+package edu.uwec.cribbageassistant.model;
 
 import javax.swing.*;
+
 import java.util.ArrayList;
 
 /**

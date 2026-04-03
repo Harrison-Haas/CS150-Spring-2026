@@ -1,3 +1,4 @@
+package edu.uwec.cribbageassistant.model;
 
 import java.util.ArrayList;
 

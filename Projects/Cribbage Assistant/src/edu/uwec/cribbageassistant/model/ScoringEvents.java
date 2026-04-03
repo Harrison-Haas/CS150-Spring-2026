@@ -1,3 +1,4 @@
+package edu.uwec.cribbageassistant.model;
 /**
  * Contains the methods to run when specific scoring events are found in a
  * cribbage hand. Contains a running tally of the points scored in a hand as
